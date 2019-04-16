@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\MyTemplateMethod\MyTemplateMethod\bin\Debug\MyTemplateMethod.exe
+C:\Users\ben\source\repos\MyTemplateMethod\MyTemplateMethod\bin\Debug\MyTemplateMethod.pdb
+C:\Users\ben\source\repos\MyTemplateMethod\MyTemplateMethod\obj\Debug\MyTemplateMethod.csprojAssemblyReference.cache
+C:\Users\ben\source\repos\MyTemplateMethod\MyTemplateMethod\obj\Debug\MyTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\MyTemplateMethod\MyTemplateMethod\obj\Debug\MyTemplateMethod.exe
+C:\Users\ben\source\repos\MyTemplateMethod\MyTemplateMethod\obj\Debug\MyTemplateMethod.pdb
